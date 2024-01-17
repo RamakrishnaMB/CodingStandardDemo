@@ -1,3 +1,6 @@
+
+**Key factors that affect Code Quality** : https://docs.google.com/document/d/1zXORDpc7C8gZ_s25zeFCqZYyWic7t-uXdj36wAA1wXI/edit?usp=sharing
+
 **Naming Conventions:**
 
 **Namespace Names:**
